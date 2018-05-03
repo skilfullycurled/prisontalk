@@ -76,7 +76,7 @@ Prison Talk Topic Modeling
 Prison Talk Document Processing
 
 
-###REGARDING USERNAMES AND LOGGING IN
+### REGARDING USERNAMES AND LOGGING IN
 
 There are some (only one if I recall) circumstances in which you may need to login in order scrape the pages.  You can find this out by simply using the site.  For reasons I’ll get to below, if you do not have to login to the site (even when simply exploring it) **don’t**.
 
