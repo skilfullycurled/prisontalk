@@ -1,0 +1,9 @@
+# FOLDERS
+.ipynb_checkpoints/
+data/
+Illinois/
+nyc/
+
+# FILES
+PrisonTalk.key
+PrisonTalkLoginScraper.rtf
