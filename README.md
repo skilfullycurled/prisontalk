@@ -4,7 +4,7 @@ Scrapers and Parsers for prisontalk.com forums.  My approach is actually to down
 
 The notebooks contained extract the following data:
 
-Prison Thread Talk Scraper
+Prison Talk Thread Scraper
 
 1. Log in/out
 2. Get list of forums.
