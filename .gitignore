@@ -1,6 +1,8 @@
 # FOLDERS
 .ipynb_checkpoints/
 data/
+examples/forums/
+examples/threads/
 
 # FILES
 PrisonTalk.key
